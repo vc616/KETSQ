@@ -9,9 +9,9 @@ from opcua import Client
 
 sys.path.insert(0, "..")
 
-mysql_host = "111.207.218.252"
+mysql_host = "192.168.0.81"
 mysql_user = "root"
-mysql_password = "51660180"
+mysql_password = "********"
 mysql_db = "dt"
 mysql_port = 3306
 kepserver_host = "192.168.0.81"
